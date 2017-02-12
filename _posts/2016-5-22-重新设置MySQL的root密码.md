@@ -56,4 +56,4 @@ Bye
 6．重新启动mysqld 
 # /etc/init.d/mysqld restart 
 Stopping MySQL: [ OK ] 
-Starting MySQL: [ OK ] 
+Starting MySQL: [ OK ]  
