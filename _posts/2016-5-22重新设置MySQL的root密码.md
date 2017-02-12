@@ -1,4 +1,16 @@
-方法：
+layout:     post   				    # 使用的布局（不需要改）
+title:      修改mysql密码 				# 标题 
+subtitle:   Hello World, Hello Blog #副标题
+date:       2017-02-06 				# 时间
+author:     BY 						# 作者
+header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - 生活
+---
+
+## Hey
+>方法：
 可以进行如下的步骤重新设置MySQL的root密码： 
 1．首先确认服务器出于安全的状态，也就是没有人能够任意地连接MySQL数据库。 
 因为在重新设置MySQL的root密码的期间，MySQL数据库完全出于没有密码保护的 
